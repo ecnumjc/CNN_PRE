@@ -10,7 +10,7 @@ void usage()
 	cout << "usage:<options>\n"
 		<< "-train\t\tuse word2vec config file as input\n"
 		<< "-wdict\t\tuse file(re_data.csv) as input\n"
-		<< "-wvdict\t\tuse worddict file and wordvec file as input\n";
+		<< "-wvdict\t\tuse worddict file and wordvec file as input\n" ;
 }
 
 
